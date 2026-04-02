@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000" fill="none">
+  <rect width="800" height="1000" rx="48" fill="#FCE6E4"/>
+  <rect x="48" y="48" width="704" height="904" rx="36" fill="white"/>
+  <rect x="88" y="88" width="624" height="260" rx="28" fill="#E1261C"/>
+  <text x="120" y="170" fill="#FFF6D8" font-family="Arial, sans-serif" font-size="38" font-weight="700">Colonies de vacances</text>
+  <text x="120" y="250" fill="white" font-family="Arial, sans-serif" font-size="72" font-weight="700">Plan-Sepey</text>
+  <text x="120" y="320" fill="#FFF6D8" font-family="Arial, sans-serif" font-size="40" font-weight="700">&amp; Gryon 2026</text>
+  <path d="M120 480L240 360L360 480H120Z" fill="#2E9B42"/>
+  <path d="M280 500L420 320L560 500H280Z" fill="#4C4C4C"/>
+  <path d="M480 520L600 390L680 520H480Z" fill="#2E9B42"/>
+  <rect x="120" y="620" width="560" height="164" rx="28" fill="#F7F3EA"/>
+  <text x="156" y="688" fill="#4C4C4C" font-family="Arial, sans-serif" font-size="34" font-weight="700">Deux séries d'été, inscriptions en ligne</text>
+  <text x="156" y="734" fill="#4C4C4C" font-family="Arial, sans-serif" font-size="24">Demo visuelle pour présenter tarifs, dates et ambiance du séjour</text>
+</svg>

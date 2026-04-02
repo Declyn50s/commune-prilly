@@ -1,0 +1,12 @@
+dist/
+node_modules/
+*.log
+.DS_Store
+.env
+.env.local
+.env.production
+.vscode/
+tsconfig.tsbuildinfo
+tsconfig.node.tsbuildinfo
+public/videos/
+public/docs/

@@ -1,0 +1,17 @@
+export { ContactHelpBlock } from "@/components/installation/contact-help-block";
+export { DocumentCard } from "@/components/installation/document-card";
+export { ImportantNotice } from "@/components/installation/important-notice";
+export { InfoBadge } from "@/components/installation/info-badge";
+export { PracticalInfoCard } from "@/components/installation/practical-info-card";
+export { ProfileSelector } from "@/components/installation/profile-selector";
+export { SpecialCaseCard } from "@/components/installation/special-case-card";
+export { StepCard } from "@/components/installation/step-card";
+export { AlertNotice } from "@/components/housing/alert-notice";
+export { CalculationInfoCard } from "@/components/housing/calculation-info-card";
+export { DocumentsChecklist } from "@/components/housing/documents-checklist";
+export { EligibilityHighlights } from "@/components/housing/eligibility-highlights";
+export { HousingAidTabs } from "@/components/housing/housing-aid-tabs";
+export { HousingContactCard } from "@/components/housing/housing-contact-card";
+export { QuickaccèssCards } from "@/components/housing/quick-access-cards";
+export { RentalRulesStepper } from "@/components/housing/rental-rules-stepper";
+export { SupportOrganizationCard } from "@/components/housing/support-organization-card";

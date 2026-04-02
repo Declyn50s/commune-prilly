@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000" fill="none">
+  <rect width="800" height="1000" rx="48" fill="#E8F5EC"/>
+  <rect x="48" y="48" width="704" height="904" rx="36" fill="white"/>
+  <rect x="88" y="88" width="624" height="260" rx="28" fill="#2E9B42"/>
+  <text x="120" y="170" fill="#FFF6D8" font-family="Arial, sans-serif" font-size="40" font-weight="700">Passeport Vacances</text>
+  <text x="120" y="244" fill="white" font-family="Arial, sans-serif" font-size="84" font-weight="700">2026</text>
+  <text x="120" y="300" fill="#FFF6D8" font-family="Arial, sans-serif" font-size="28">Activites d'été pour les 9 a 15 ans</text>
+  <rect x="120" y="406" width="560" height="122" rx="28" fill="#F7F3EA"/>
+  <rect x="120" y="552" width="560" height="122" rx="28" fill="#F7F3EA"/>
+  <text x="156" y="462" fill="#4C4C4C" font-family="Arial, sans-serif" font-size="34" font-weight="700">Deux passeports</text>
+  <text x="156" y="502" fill="#4C4C4C" font-family="Arial, sans-serif" font-size="24">decouverte ou complet selon le rythme souhaite</text>
+  <text x="156" y="608" fill="#4C4C4C" font-family="Arial, sans-serif" font-size="34" font-weight="700">Premier arrive, premier servi</text>
+  <text x="156" y="648" fill="#4C4C4C" font-family="Arial, sans-serif" font-size="24">inscription aux activités a partir de juin 2026</text>
+</svg>

@@ -1,0 +1,25 @@
+import type { RouteDefinition } from "@/features/site/data/navigation";
+
+export const villeRoutes: RouteDefinition[] = [
+  { slug: "conseil-communal", path: "/ville/conseil-communal", title: "Conseil communal", description: "Composition, rôles et fonctionnement du législatif." },
+  { slug: "municipalite", path: "/ville/municipalite", title: "Municipalité", description: "Les membres de la Municipalité et leurs dicastères." },
+  { slug: "administration", path: "/ville/administration", title: "Administration", description: "L'organisation des services communaux." },
+  { slug: "finances-impots", path: "/ville/finances-impots", title: "Finances & impôts", description: "Les informations fiscales et financières utiles." },
+  { slug: "emoluments-et-subventions", path: "/ville/emoluments-et-subventions", title: "Émoluments et subventions", description: "Les tarifs communaux et les principales aides en un seul point d'entrée." },
+  { slug: "taxes", path: "/ville/taxes", title: "Taxes", description: "Les taxes communales et leurs cadres d'application." },
+  { slug: "budget", path: "/ville/budget", title: "Budget", description: "Le budget communal expliqué de façon lisible." },
+  { slug: "stationnement", path: "/ville/stationnement", title: "Stationnement", description: "Réglementation et organisation du stationnement." },
+  { slug: "votations-elections", path: "/ville/votations-elections", title: "Votations & élections", description: "Le point d'entrée pour la vie démocratique locale." },
+  { slug: "prochains-scrutins", path: "/ville/prochains-scrutins", title: "Prochains scrutins", description: "Les votations et élections à venir." },
+  { slug: "résultats", path: "/ville/résultats", title: "Résultats", description: "Les résultats des derniers scrutins." },
+  { slug: "mode-emploi", path: "/ville/mode-emploi", title: "Mode d'emploi", description: "Comment voter, où voter et à quoi penser." },
+  { slug: "reglements-communaux", path: "/ville/reglements-communaux", title: "Règlements communaux", description: "Les textes réglementaires de la commune." },
+  { slug: "archives-communales", path: "/ville/archives-communales", title: "Histoire & Prilly 360°", description: "L'histoire de la commune et ses visites virtuelles 360°." },
+  { slug: "journal-communal", path: "/ville/journal-communal", title: "Journal communal", description: "Le journal communal et ses éditions." },
+  { slug: "economie", path: "/ville/economie", title: "Économie", description: "L'activité économique et les dynamiques du territoire." },
+  { slug: "commerces", path: "/ville/commerces", title: "Commerces", description: "Les commerces de proximité et l'offre locale." },
+  { slug: "entreprises", path: "/ville/entreprises", title: "Entreprises", description: "Le tissu entrepreneurial présent à Prilly." },
+  { slug: "promotions-economiques", path: "/ville/promotions-economiques", title: "Promotions économiques", description: "Les dispositifs de promotion et d'accueil économique." },
+  { slug: "ressources-humaines", path: "/ville/ressources-humaines", title: "Travailler à la Ville de Prilly", description: "Une page marque employeur pour comprendre les valeurs, les parcours et les opportunités de la commune." },
+  { slug: "offres-emploi", path: "/ville/offres-emploi", title: "Offres d'emploi", description: "Les postes à pourvoir au sein de la commune." },
+];
